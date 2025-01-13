@@ -118,6 +118,4 @@ Built with:
 [Website](https://baap.dev) • [Documentation](https://docs.baap.dev) • [Twitter](https://twitter.com/baap)
 
 </div>
-```
 
-You can now copy this content directly into your README.md file. Would you like any adjustments to the content or style?
