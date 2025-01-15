@@ -19,19 +19,19 @@ We envision a future where autonomous agents seamlessly interact across differen
 
 ### Core Protocol
 
-[baap-core](https://github.com/baap/core) - The foundational protocol implementation
+[baap-core] - The foundational protocol implementation
 
 ### Official Agents
 
-[baap-agents](https://github.com/baap/agents) - Collection of official agent implementations
+[baap-agents]- Collection of official agent implementations
 
 ### Chain Integrations
 
-[baap-integrations](https://github.com/baap/integrations) - Blockchain network integrations
+[baap-integrations] - Blockchain network integrations
 
 ### Development Tools
 
-[baap-studio](https://github.com/baap/studio) - Development and testing environment
+[baap-studio] - Development and testing environment
 
 ## 🤝 Contributing
 
@@ -47,9 +47,9 @@ See our [Contributing Guide](CONTRIBUTING.md) for more details.
 
 ## 🌐 Community
 
-- [Discord](https://discord.gg/baap)
-- [Twitter](https://twitter.com/baap)
-- [Documentation](https://docs.baap.dev)
+
+- [Twitter](https://x.com/BAAP_protocol)
+
 
 ## 📱 Get Started
 
@@ -79,7 +79,7 @@ const defiAgent = new Agent({
 
 ## 📖 Documentation
 
-Visit our [documentation](https://docs.baap.dev) to learn more about:
+
 
 - Getting Started
 - Core Concepts
