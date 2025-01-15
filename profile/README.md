@@ -99,7 +99,7 @@ const defiAgent = new Agent({
 
 ## ⚖️ License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## 🙏 Acknowledgements
 
@@ -115,7 +115,7 @@ Built with:
 
 **Building the future of cross-chain agent coordination**
 
-[Website](https://baap.dev) • [Documentation](https://docs.baap.dev) • [Twitter](https://twitter.com/baap)
+[Website](https://baap.fun)  • [Twitter](https://x.com/BAAP_protocol)
 
 </div>
 
